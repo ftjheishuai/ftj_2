@@ -1,0 +1,266 @@
+
+
+.yao {
+    width: 1000px;
+    height: 505px;
+    margin: 8px auto;
+}
+.yao_1 {
+    width: 582px;
+    height: 90px;
+    background-image: url(../img/news_06.png);
+}
+.yao_2 {
+    width: 308px;
+    height: 208px;
+    background-image: url(../img/2013040353722189.jpg);
+    margin: 0px 0px 0px 18px;
+}
+.yao_2_1 {
+    width: 265px;
+    height: 65px;
+    background-image: url(../img/ico_bg1.gif);
+    background-repeat: no-repeat;
+    margin: 0px 0px 0px 325px;
+    transition: .2s;
+    background-position: 0px -2px;
+    position: relative;
+}
+.yao_2_1 a {
+    position: absolute;
+    top: 16px;
+    left: 41px;
+    color: black;
+}
+.yao_2 div:hover a {
+    color: red;
+}
+.yao_2 div:hover {
+    background-position: 0px -65px;
+}
+.yao_2_2 {
+    width: 265px;
+    height: 65px;
+    background-image: url(../img/ico_bg2.gif);
+    background-repeat: no-repeat;
+    margin: 4px 0px 0px 321px;
+    transition: .2s;
+    background-position: 0px 2px;
+    position: relative;
+}
+.yao_2_2 a {
+    position: absolute;
+    top: 16px;
+    left: 41px;
+    color: black;
+}
+.yao_2_2:hover {
+    background-position: 0px -65px;
+    color: red;
+}
+.yao_2_3 {
+    width: 265px;
+    height: 65px;
+    background-image: url(../img/ico_bg3.gif);
+    background-repeat: no-repeat;
+    margin: 10px 0px 0px 320px;
+    transition: .2s;
+    position: relative;
+}
+.yao_2_3 a {
+    position: absolute;
+    top: 16px;
+    left: 41px;
+    color: black;
+}
+.yao_2_3:hover {
+    background-position: 0px -65px;
+    color: red;
+}
+.yao_list {
+    width: 350px;
+    height: 490px;
+    margin: -299px 0px 0px 632px;
+    background-image: url(../img/girl_03.png);
+}
+.wenzi_1 {
+        width: 277px;
+
+    height: 190px;
+    margin: -174px 0px 0px 17px;
+    position: relative;
+}
+.wenzi_1 p a {
+    color: black;
+    font-size: 5px;
+}
+.wenzi_1>p {
+    color: black;
+    font-family: '微软雅黑'；
+}
+.wenzi_1 p a:hover {
+    color: red;
+}
+.zuizui li {
+    width: 99%;
+    height: 17px;
+    background: url(../img/zuizui.png) no-repeat;
+    margin: 16px 0px 0px 0px;
+    border-bottom: 1px dashed gray;
+    line-height: 7px;
+}
+.zuizui li a {
+    color: black;
+}
+.zuizui li a:hover {
+    color: red;
+}
+.wenzi_2 {
+    width: 276px;
+    height: 190px;
+    margin: -190px 0px 0px 336px;
+    position: relative;
+
+}
+.wenzi_2 p a {
+    color: black;
+    font-size: 5px;
+}
+.wenzi_2>p {
+    color: black;
+    font-family: '微软雅黑'；
+}
+.wenzi_2 p a:hover {
+    color: red;
+}
+.zuizui1 li {
+    width: 99%;
+    height: 17px;
+    background: url(../img/zuizui.png) no-repeat;
+    margin: 16px 0px 0px 0px;
+    line-height: 7px;
+    border-bottom: 1px dashed gray;
+}
+.zuizui1 li a {
+    color: black;
+}
+.zuizui1 li a:hover {
+    color: red;
+}
+.bandi {
+    width: 1000px;
+    height: 438px;
+    margin: -22px auto;
+}
+.di_top {
+    width: 601px;
+    height: 69px;
+    margin: 30px 0 0 0;
+    background: url(../img/zizhong_07.png) no-repeat;
+}
+.di_di {
+    width: 1000px;
+    height: 326px;
+    margin: 32px 0px 0px 0px;
+}
+.di_di-1 {
+    width: 240px;
+    height: 326px;
+    background: url(../img/si1_07.png);
+    transition: .2s;
+    position: relative;
+    overflow: hidden;
+}
+.di_di a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.meng {
+    position: absolute;
+    width: 100%;
+    height: 0;
+    background: rgba(0, 0, 0, 0.5);
+    transition: .5s;
+}
+.di_di-1:hover .meng {
+    height: 100%;
+}
+.meng p {
+    position: absolute;
+    color: white;
+    bottom: 10px;
+}
+.di_di-1:hover {
+    box-shadow: -2px 2px 2px 2px black;
+    -webkit-transform: translate(5px, -5px);
+    -moz-transform: translate(5px, -5px);
+    -ms-transform: translate(5px, -5px);
+    -o-transform: translate(5px, -5px);
+    transform: translate(5px, -5px);
+}
+.di_di-2 {
+    width: 240px;
+    height: 326px;
+    background: url(../img/si2_07.png);
+    margin: -326px 0px 0px 253px;
+    transition: .2s;
+    position: relative;
+    overflow: hidden;
+}
+.di_di-2:hover .meng {
+    height: 100%;
+}
+.di_di-2:hover {
+    box-shadow: -2px 2px 2px 2px black;
+    -webkit-transform: translate(5px, -5px);
+    -moz-transform: translate(5px, -5px);
+    -ms-transform: translate(5px, -5px);
+    -o-transform: translate(5px, -5px);
+    transform: translate(5px, -5px);
+}
+.di_di-3 {
+    width: 240px;
+    height: 326px;
+    margin: -326px 0px 0px 507px;
+    background: url(../img/si3_07.png);
+    transition: .2s;
+    position: relative;
+    overflow: hidden;
+}
+.di_di-3:hover .meng {
+    height: 100%;
+}
+.di_di-3:hover {
+    box-shadow: -2px 2px 2px 2px black;
+    -webkit-transform: translate(5px, -5px);
+    -moz-transform: translate(5px, -5px);
+    -ms-transform: translate(5px, -5px);
+    -o-transform: translate(5px, -5px);
+    transform: translate(5px, -5px);
+}
+.di_di-4 {
+    width: 240px;
+    height: 326px;
+    margin: -326px 0px 0px 759px;
+    background: url(../img/si4_07.png);
+    transition: .2s;
+    position: relative;
+    overflow: hidden;
+}
+.di_di-4:hover .meng {
+    height: 100%;
+}
+.di_di-4:hover {
+    box-shadow: -2px 2px 2px 2px black;
+    -webkit-transform: translate(5px, -5px);
+    -moz-transform: translate(5px, -5px);
+    -ms-transform: translate(5px, -5px);
+    -o-transform: translate(5px, -5px);
+    transform: translate(5px, -5px);
+}
+.di_di>div>a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}

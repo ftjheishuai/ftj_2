@@ -1,0 +1,140 @@
+.center{
+	width:1000px;
+	height: 860px;
+	margin: 10px auto;
+
+}
+.center_top p{
+	text-align: center;
+	font-size: 24px;
+}
+.center_top p:hover{
+    color: black;
+}
+
+.center_top1 {
+   width: 465px;
+    height: 37px;
+
+    line-height: 35px;
+}
+.center_top1 span {
+    margin-left: 8px;
+    font-weight: bold;
+    font-family: 微软雅黑;
+}
+.center_top1 p {
+    font-family: 微软雅黑;
+    display: inline;
+        font-size: 13px;
+
+}
+.center_top2{
+    width:694px;
+    height:69px;
+
+    margin:10px auto;
+    overflow: hidden;
+}
+.center_top2_1{
+    width:606px;
+    height:608px;
+    margin: 14px auto;
+
+    background: url(../img/bigtu_03.png) no-repeat;
+    border: 1px solid gray;
+}
+
+        .center-top-tu{
+    width: 540px;
+    height: 100px;
+    /* background: #59D2F6; */
+    margin: auto;
+    position: relative;
+}
+.center-top-tu1{
+    width: 13px;
+    height: 43px;
+    background: url('../img/ico_left.gif') no-repeat;
+    position: absolute;
+    top: 28px;
+    left: 0;
+}
+.center-top-tu ul a li{
+    width: 84px;
+    height: 71px;
+    background: url('../img/ico_none.gif') no-repeat;
+    float: left;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+.center-top-tu2{
+    width: 13px;
+    height: 43px;
+    background: url('../img/ico_right.gif') no-repeat;
+    position: absolute;
+    top: 28px;
+    right: 0;
+}
+.center-top-tu ul a li:hover{
+    background: url('../img/ico_bg.gif') no-repeat;
+}
+.center-top-tu1-2{
+    margin:2px auto;
+    width: 80px;
+    height: 71px;
+    background: url('../img/2013041059144221.jpg') no-repeat;
+    background-size: 80px 60px;
+    position: relative;
+}
+.center-top-tu1-1{
+    margin:2px auto;
+    width: 80px;
+    height: 71px;
+    background: url('../img/2013041059144221.jpg') no-repeat;
+    background-size: 80px 60px;
+    position: relative;
+}
+.center-top-tu1-1 div{
+    width: 34px;
+    height: 16px;
+    background: black;
+    color: white;
+    position: absolute;
+    bottom: 12px;
+    left: 1px;
+}
+.center-top-tu1-1 div span{
+    font-size: 12px;
+    position: absolute;
+    bottom: 0;
+    left: 4px;
+}
+.center-top-tu1-2 div{
+    width: 34px;
+    height: 16px;
+    background: black;
+    color: white;
+    position: absolute;
+    bottom: 12px;
+    left: 1px;
+}
+.center-top-tu1-2 div span{
+    font-size: 12px;
+    position: absolute;
+    bottom: 0;
+    left: 4px;
+}
+.center-cen{
+    width: 600px;
+    height: 600px;
+    background: url('../img/2013041059148313.jpg') no-repeat;
+    margin: 10px auto;
+}
+.center_buttom{
+    width:606px;
+    height:608px;
+    background:url(../img/bigtu_03.png) no-repeat;
+    margin:10px auto;
+    border:1px solid gray;
+}
